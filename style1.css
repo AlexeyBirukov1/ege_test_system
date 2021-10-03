@@ -1,0 +1,82 @@
+body{
+    background-image: url('images/Без имени.png');
+    font-family: 'Montserrat', sans-serif;
+}
+.Title{
+    width: 100%;
+    height:50%;
+    border: 4px black;
+    margin-top: 10%;
+}
+.glavniy{
+    margin: auto;
+    display: flex;
+    width: 100%;
+}
+.podglavniy{
+    display: flex;
+}
+.podpodglavniy{
+    display: flex;
+}
+.glavh1 {
+    font-size: 80px;
+    margin: auto;
+}
+.glavh2{
+    font-size: 40px;
+    margin: auto;
+}
+.buttons{
+    width: 100%;
+    height: 50%;
+    margin-top: 15%;
+}
+.buttonlog{
+    border-radius: 40px;
+    background-color:#2E9298;
+    width: 205px;
+    height: 71px;
+    border-color:#2E9298;
+    border: 0;
+    padding: 0;
+    margin: auto;
+}
+.buttonreg{
+    border-radius: 40px;
+    width: 205px;
+    height: 71px;
+    border-color:#FFFFFF;
+    border: 0;
+    padding: 0;
+    margin: auto;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+}
+.buttonlink{
+    margin: auto;
+}
+.alog{
+    color:#FFFFFF;
+    font-size: 30px;
+}
+.log{
+    display: flex;
+}
+.areg{
+    color:#000000;
+    font-size: 30px;
+}
+.reg{
+    margin-top: 1.5%;
+    display: flex;
+}
+.link{
+    display: flex;
+}
+.left{
+    margin: ;
+}
