@@ -69,6 +69,7 @@ body{
     cursor:pointer;
     overflow: hidden;
 }
+
 .buttonlink{
     margin: auto;
 }
@@ -85,10 +86,15 @@ body{
     text-decoration: none;
     color:#000000;
     font-size: 30px;
+    transition: 0.4s;
+}
+.areg:hover{
+    font-size: 32px;
 }
 .reg{
     margin-top: 1.5%;
     display: flex;
+
 }
 .link{
     display: flex;
