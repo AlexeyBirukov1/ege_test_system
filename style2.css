@@ -1,0 +1,84 @@
+body{
+    background-image: url("images/unknown1.png");
+    font-family: 'Montserrat', sans-serif;
+    background-size: cover;
+}
+.text{
+    font-size: 40px;
+    display: flex;
+    margin-top: 13%;
+}
+.textreg {
+    font-size: 40px;
+    margin: auto;
+}
+.divfields1{
+    display: flex;
+    margin-top: 4%;
+}
+.inputfields1{
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    height: 60px;
+    border-radius: 75px;
+    font-size: 40px;
+    border-width: 5px;
+    border-color: black;
+}
+.divfields2{
+    display: flex;
+    margin-top: 3%;
+}
+.inputfields2{
+    text-align: center;
+    margin: auto;
+    width: 559px;
+    height: 60px;
+    border-radius: 75px;
+    font-size: 40px;
+    border-width: 5px;
+    border-color: black;
+}
+.divfields3{
+    display: flex;
+    margin-top: 3%;
+}
+.inputfields3{
+    text-align: center;
+    margin: auto;
+    width: 559px;
+    height: 60px;
+    border-radius: 75px;
+    font-size: 40px;
+    border-width: 5px;
+    border-color: black;
+}
+.areg{
+    text-decoration: none;
+    color:#000000;
+    font-size: 30px;
+    transition: 0.4s;
+}
+.areg:hover{
+    font-size: 32px;
+}
+.buttonreg{
+    border-radius: 40px;
+    width: 334px;
+    height: 67px;
+    border-color:#FFFFFF;
+    border: 0;
+    padding: 0;
+    margin: auto;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+}
+.divbuttonreg{
+    margin-top: 1.5%;
+    display: flex;
+
+}
