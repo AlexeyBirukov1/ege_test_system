@@ -1,0 +1,18 @@
+.divprofile{
+    width:90%;
+    margin:auto;
+}
+.avatarka{
+    width:243px;
+    height:243px;
+    border-radius:90%;
+    background-color:#C4C4C4;
+    margin-top:5%;
+    background-image:url("images/avatarka.png");
+    background-position:center;
+    background-size: cover;
+}
+h1{
+    font-size:40px;
+    text-align:center;
+}
