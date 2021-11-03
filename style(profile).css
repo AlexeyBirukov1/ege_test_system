@@ -1,6 +1,10 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
 .divprofile{
     width:90%;
     margin:auto;
+    display:flex;
 }
 .avatarka{
     width:243px;
@@ -15,4 +19,64 @@
 h1{
     font-size:40px;
     text-align:center;
+}
+.divprofilefields{
+    width:90%;
+    margin:auto;
+    margin-top:7%;
+}
+input[type='text']:focus {
+    outline: none;
+}
+.divprofilefieldsinput1{
+    width: 495px;
+    height: 40px;
+    font-size: 40px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    display:flex;
+    margin-left:6%;
+    margin-bottom:3%;
+}
+.divprofilefieldsinput2{
+    width: 638px;
+    height: 40px;
+    font-size: 40px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    margin-left:6%;
+    margin-top:2%;
+    display:flex;
+}
+.afavorites{
+    color:#000000;
+    transition: 0.4s;
+    text-decoration: none;
+    font-size: 40px;
+}
+.afavorites:hover{
+    color:#FFFFFF;
+}
+.buttonfavorites{
+    transition: 0.4s;
+    border-radius: 40px;
+    background-color: #FFFFFF;
+    width: 273px;
+    height: 75px;
+    border-color:#000000;
+    border: 2;
+    padding: 0;
+    margin: auto;
+    margin-left:6%;
+    margin-top:2%;
+    color:#;
+}
+.buttonfavorites:hover{
+    width: 275px;
+    height: 77px;
+    background-color: #000000;
+    border-color: #000000;
+    color:#FFFFFF;
 }
